@@ -69,12 +69,12 @@ style="padding-right: 10px;"      src="https://cdn.jsdelivr.net/gh/devicons/devi
 
 ### 👨‍💻 Statistic
 
-<p>
+<p align="center">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 8px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GuilhermeSRei&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
