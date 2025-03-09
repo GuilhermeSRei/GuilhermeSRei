@@ -74,7 +74,7 @@ style="padding-right: 10px;"      src="https://cdn.jsdelivr.net/gh/devicons/devi
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 8px;" 
     src="https://github-readme-stats.vercel.app/api?username=GuilhermeSRei&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
