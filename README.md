@@ -12,7 +12,7 @@ My name is Guilherme Sousa dos Reis, I am 21 years old, I am from Ipirá, a city
           /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
          </a> 
-      <a href="https://github.com/GuilhermeSRei?tab=repositoriesi"><img width="40px" alt="GitHub" title="GitHub" style="background = #000000"
+      <a href="[https://github.com/GuilhermeSRei?tab=repositoriesi](https://github.com/GuilhermeSRei?tab=repositories)"><img width="40px" alt="GitHub" title="GitHub" style="background = #000000"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
           /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
