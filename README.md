@@ -7,7 +7,7 @@ Me chamo Guilherme Sousa dos Reis, tenho 21 anos, sou natural de ipirá, interio
 My name is Guilherme Sousa dos Reis, I am 21 years old, I am from Ipirá, a city in the interior of Bahia, and I currently study Computer Engineering at the University of Salvador (UNIFACS). I am a person with a thirst for knowledge and the improvement of my skills, always giving my best. I am currently at the beginning of my professional career, enhancing my knowledge in Python and its tools and frameworks, taking courses, and seeking to validate my knowledge through the certificates I have obtained.
 
  <p align="center">
-      <a href="www.linkedin.com/in/guilherme-reis-71063b356"><img width="40px" alt="LinkedIn" title="LinkedIn" 
+      <a href="https://www.linkedin.com/in/guilherme-reis-71063b356/"><img width="40px" alt="LinkedIn" title="LinkedIn" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
           /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
